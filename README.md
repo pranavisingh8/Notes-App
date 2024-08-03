@@ -32,5 +32,4 @@ addPage: Adds a new note page.
 selectPage: Selects a specific note page based on the index.
 
 ## Styling
-Light Gray Background: .bg-light-gray class for the sidebar.
-Dark Gray Background: .bg-dark-gray class for the active note.
+
