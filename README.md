@@ -1,6 +1,6 @@
 # Notes-App
 ## Overview
-The Notes-App is a simple note-taking application built using Svelte. It allows users to create, edit, and save notes. The notes are stored in the local storage of the browser, ensuring that the data persists even after refreshing the page.
+
 
 ## Features
 Create and manage multiple notes.
